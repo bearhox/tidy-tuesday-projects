@@ -1,0 +1,6 @@
+This week is looking at the water quality of Sydney's beaches. There has been increased rainfall this summer there.
+The datasets look at drinking water quality and weather patterns from 1991 until this year.
+
+Has the water quality declined over this period?
+How does rainfall impact E-coli bacteria levels?
+Are some swimming sites particularly prone to high bacteria levels following rain?
