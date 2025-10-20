@@ -1,0 +1,67 @@
+Australian Frog Notes
+
+Table 1: frog_names
+Columns: 
+	['subfamily', 'tribe', 'scientificName', 'commonName', 'secondary_commonNames']
+Shape: 294 rows
+Datatypes for each column:
+------------------------------
+subfamily: object
+tribe: object
+scientificName: object
+commonName: object
+secondary_commonNames: object
+
+Table 2: frogID_data
+Columns:Index(['occurrenceID', 'eventID', 'decimalLatitude', 'decimalLongitude',
+       'scientificName', 'eventDate', 'eventTime', 'timezone',
+       'coordinateUncertaintyInMeters', 'recordedBy', 'stateProvince'],
+      dtype='object')
+Shape: 136621 rows
+Datatypes for each column:
+------------------------------
+occurrenceID: int64
+eventID: int64
+decimalLatitude: float64
+decimalLongitude: float64
+scientificName: object
+eventDate: object
+eventTime: object
+timezone: object
+coordinateUncertaintyInMeters: float64
+recordedBy: int64
+stateProvince: object
+
+print("Datatypes for each column:")
+print("-" *30)
+for column in frog_names.columns:
+    dtype = frog_names[column].dtype    
+    print(f"{column}: {dtype}")
+
+print("Datatypes for each column:")
+print("-" *30)
+for column in frogID_data.columns:
+    dtype = frogID_data[column].dtype    
+    print(f"{column}: {dtype}")
+
+Research Questions:
+1. Endemic Species Analysis
+
+Identifies species found in only one state/province (with ≥3 records)
+Creates a specialized map showing potentially endemic species
+Color-codes by state/territory
+Provides detailed statistics on regional endemism
+
+2. Seasonal Calling Patterns
+
+Analyzes when different species are most active
+Converts dates to seasons (Summer, Autumn, Winter, Spring)
+Identifies species with distinct calling seasons
+Creates a seasonal map with color-coded markers by peak season
+
+3. Geographic Range Analysis
+
+Calculates range area, latitude/longitude spans, and state coverage
+Identifies species with the widest geographic ranges
+Finds the rarest species (fewest records)
+Creates a comparison map showing both extremes
