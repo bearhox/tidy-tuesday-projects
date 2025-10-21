@@ -34,6 +34,8 @@ def load_and_process_data():
         print(f"Error loading data: {e}")
         return None
 
+
+
 def create_frog_map(data):
     """Create an interactive map with frog species locations"""
     
