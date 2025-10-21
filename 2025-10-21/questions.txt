@@ -1,0 +1,3 @@
+Which are the rainiest/sunniest/hottest regions of the UK? Has that changed over time?
+Were there any historic years that were particularly rainy/sunny/hot? Did that apply to all regions of the UK?
+Have monthly patterns in the meteorological variables changed year-on-year?
