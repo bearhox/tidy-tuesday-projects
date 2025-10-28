@@ -1,3 +1,16 @@
-Which are the rainiest/sunniest/hottest regions of the UK? Has that changed over time?
-Were there any historic years that were particularly rainy/sunny/hot? Did that apply to all regions of the UK?
-Have monthly patterns in the meteorological variables changed year-on-year?
+1. Which are the rainiest/sunniest/hottest regions of the UK? Has that changed over time?
+Rainiest Region = Scotland (south)
+  Measurement of rain in this region did not begin until 1911, before that Scotland (North) was the rainiest region. Northern Scotland's rainfall wen down after the 1920s. Could this be due to improvements in measurement of     rainfall? The Midlands are the driest compared to the other regions of the UK and that has been consistant over time.
+
+Sunniest Region = Southern England
+  Sunshine measurement began in 1891. Southern England was the sunniest until recordings began in the Midlands. Since the early 1900s, the Midlands and Southern England compete for sunniest regions over time.
+
+Hottest Region = Southern England
+  Southern England is consistantly the warmest region in the UK. Midlands is a close second, and Scotland (North) has the lowest max temperatures consistantly across time.
+
+2. Were there any historic years that were particularly rainy/sunny/hot? Did that apply to all regions of the UK?
+  Scotland both North and South had periods of high rainfall at the turn of the 20th century up until the 1960s. 
+  Northern England had an unusual high temperature around the 1870s. There were record high temperatures across all regions in the year 2022.
+  Scotland (South) had record low temperatures between the years 1915-1930, then the average temperatures rose. In general the min temperature rose across all regions within the last decade or two.
+  Sunshine across all regions have lowered in the last decade.
+
