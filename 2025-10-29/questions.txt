@@ -1,8 +1,11 @@
 1. In which genres are women, Black, Asian and ethnically diverse writers most likely to be shortlisted and/or awarded?
+  To figure this out, sort the data by genre and by ethnicity, gender, and ethnicity macros (total prizesa)
 
 2. Have prizes improved their record on gender and/or ethnic representation in shortlists and awardees?
+  Show the total amount of awards by gender, ethnicity, and ethnicity macros across each year (total prizes)
 
 3. Is there a connection between specific educational credentials and/or educational institutions and writers’ chances of being shortlisted or winning?
+  
 
 
 Column Names in Prizes:
