@@ -1,3 +1,31 @@
-In which genres are women, Black, Asian and ethnically diverse writers most likely to be shortlisted and/or awarded?
-Have prizes improved their record on gender and/or ethnic representation in shortlists and awardees?
-Is there a connection between specific educational credentials and/or educational institutions and writers’ chances of being shortlisted or winning?
+1. In which genres are women, Black, Asian and ethnically diverse writers most likely to be shortlisted and/or awarded?
+
+2. Have prizes improved their record on gender and/or ethnic representation in shortlists and awardees?
+
+3. Is there a connection between specific educational credentials and/or educational institutions and writers’ chances of being shortlisted or winning?
+
+
+Column Names in Prizes:
+['prize_id', 
+'prize_alias', 
+'prize_name', 
+'prize_institution', 
+'prize_year', 
+'prize_genre', 
+'person_id', 
+'person_role', 
+'last_name', 
+'first_name', 
+'name', 
+'gender', 
+'sexuality', 
+'uk_residence', 
+'ethnicity_macro', 
+'ethnicity', 
+'highest_degree', 
+'degree_institution', 
+'degree_field_category', 
+'degree_field',
+'viaf', 
+'book_id', 
+'book_title']
