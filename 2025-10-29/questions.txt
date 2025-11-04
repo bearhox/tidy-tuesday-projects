@@ -5,6 +5,7 @@
   Show the total amount of awards by gender, ethnicity, and ethnicity macros across each year (total prizes)
 
 3. Is there a connection between specific educational credentials and/or educational institutions and writers’ chances of being shortlisted or winning?
+  Look for trends within uk_residence, highest_degree, degree_instituion, degree_field category, degree_field
   
 
 
