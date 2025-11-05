@@ -1,8 +1,12 @@
 1. In which genres are women, Black, Asian and ethnically diverse writers most likely to be shortlisted and/or awarded?
-  To figure this out, sort the data by genre and by ethnicity, gender, and ethnicity macros (total prizesa)
+  To figure this out, sort the data by genre and by ethnicity, gender, and ethnicity macros (total prizes)
+
+  Result: Looking at the breakdown of nominees and winners, Fiction writers tend more to be women and Non Fiction Writers and Poetry tend to be men. Looking at ethnicity, the majority of all genres are UK White or Non UK     White.
 
 2. Have prizes improved their record on gender and/or ethnic representation in shortlists and awardees?
   Show the total amount of awards by gender, ethnicity, and ethnicity macros across each year (total prizes)
+
+  Result: Interestly, women writers have increased steadily over the years since 1990, when men were dominating the nominations and winners. There is a spike of male writers in the year 2009 which is the highest within the   dataset
 
 3. Is there a connection between specific educational credentials and/or educational institutions and writers’ chances of being shortlisted or winning?
   Look for trends within uk_residence, highest_degree, degree_instituion, degree_field category, degree_field
